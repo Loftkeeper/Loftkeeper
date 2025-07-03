@@ -1,0 +1,7 @@
+/ (root folder)
+ ├── /landing/          ← Landing page files (current phase)
+ ├── /beta/             ← Beta signup code (future phase)
+ ├── /game/             ← Full game frontend (later)
+ ├── /assets/           ← Images, logos, mascots, etc
+ ├── /styles/           ← Shared CSS or design files
+ └── README.md
